@@ -1,4 +1,4 @@
-<script>
+
   
   (function() {
 	'use strict';
@@ -42,4 +42,4 @@ var TableFilter = (function() {
 })();
 
 
-  </script>
+
